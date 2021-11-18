@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certifications on Anant Awasthi</title>
+    <link>https://ananta1101.github.io/Anant_Portfolio_2/certification/</link>
+    <description>Recent content in Certifications on Anant Awasthi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ananta1101.github.io/Anant_Portfolio_2/certification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certificate I: Python</title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/certification/cert-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/certification/cert-1/</guid>
+      <description>This was a foundational course on Coursera. Gave me a strong understanding of fundamental concepts of Python language. These Course with two Certificates gave me a boost for the language from where I improved my knowledge by coding algorithms and Data Structures. Further more to improve my domain I worked with Libraries and undertook beginner Level Projects. My main aim was to gain knowledge and hands on experience with ML and AI, so I worked on fundamentals that were needed for the same.</description>
+    </item>
+    
+    <item>
+      <title>Certificate II: Tensorflow for AI , ML and DL </title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/certification/cert-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/certification/cert-2/</guid>
+      <description>After Learning Python I wanted to explore libraries that could give me a boost into the field of Ai and ML. After reading many extensive but inconclusive debates between pytorch and Tensorflow users about which is better. I found this course of Tensorflow and I stuck with it. The course was relatively beginner level and gave me good insights into the Tensorflow framework.
+ Tensorflow   </description>
+    </item>
+    
+    <item>
+      <title>Certificate III IV and V: Deep Learning Specialization </title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/certification/cert-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/certification/cert-3/</guid>
+      <description>In My sixth Semester of undergraduate that is from Jan 2020 to May 2020 my curriculum of Mechatronics had 3 subjects that I got hooked onto &amp;lsquo;Artificial Intelligence&amp;rsquo;, &amp;lsquo;Machine Learning&amp;rsquo; , &amp;lsquo;Machine vision and Image Processing&amp;rsquo; these were the subjects which spiked my curiosity and so I approached my Professor, Dr Swetha Vincent and enquired about what I could do further in the field to gain practical experience. The subjects in my curriculum gave me fundamental theoretical understanding but I wanted to start applying my ideas into action and therefore my Professor guided me towards this specialization taught by Andrew Ng one of the elite researchers and computer scientist of the same field.</description>
+    </item>
+    
+    <item>
+      <title>Certificate VI: Reinforcement Learning </title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/certification/cert-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/certification/cert-4/</guid>
+      <description>While I was undertaking courses I also wanted to apply them simultaneously hence I got busy with my Personal Projects, but during that time as well I always wanted to learn more and get deeper into the subject so I started reading about the major advancements that were taking place in this domain. Two of the major topics that intrigued me were Generative Adversarial Neural Nets and Reinforcement Learning. These concepts one relating to giving the gift of imagination to a machine and other making the machine self reliant by making it learn from experience attracted me towards them.</description>
+    </item>
+    
+  </channel>
+</rss>

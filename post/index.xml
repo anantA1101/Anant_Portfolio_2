@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Anant Awasthi</title>
+    <link>https://ananta1101.github.io/Anant_Portfolio_2/post/</link>
+    <description>Recent content in Projects on Anant Awasthi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ananta1101.github.io/Anant_Portfolio_2/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I, II and III: Mechatronics Projects</title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-1/</guid>
+      <description>I had undertaken these Projects get practical experience with Mechatronics and its applications. These Projects were Smart Hospital System, Voice Controlled Robot and IoT application of Smart Home System.
+The Smart Hospital Project was undertaken by my friend Mounik Garimella and me. The aim was to build a system so that crucial live data about patients with their history and current state be stored up in a database and it can be accessible from anywhere by the doctor by deploying it to a website.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Face Recognition and Object detection</title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-2/</guid>
+      <description>After I completed few courses and played around at lower level with open CV library , I wanted to implement something that had an actual application hence I started with object detection. By experimenting with the color spaces and manipulating lower and upper bound of those color spaces I was able to detect an object only based on color in real time. The created a foundation for my open cv and later helped me in face recognition system.</description>
+    </item>
+    
+    <item>
+      <title>Project V: Gesture Recognition</title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-3/</guid>
+      <description>This was a more extensive and elaborated project which was a step ahead from what i did before it was aimed at not only at detection and recognition but also taking it a step ahead and converting the learnt data into audio output. For simplicity i just restricted myself to finger counting (eg: if i show two fingers into the camera there is an animated image of hands with two fingers up and also an audio output saying &amp;ldquo;two&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Reinforcement Learning </title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-4/</guid>
+      <description>This Project is relatively Learners Project i.e i was finding out ways to apply what i had learnt in the beginners course on Coursera. This Project introduced me to open AI gym and also Keras-RL where i used the cart Pole environment and tried to make the agent take actions to get the maximum reward. i learnt how to create environments, about action spaces and states , how to set up an episode, then how to make a DL Model and pass states and actions through it, building an agent where i came across BoltzmannQPolicy and how a DQN agent is built and fit into the model and finally how to save weights of the DQN agent so that it can be called later.</description>
+    </item>
+    
+    <item>
+      <title>Project VII: Sudoku (Ongoing Project)</title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-5/</guid>
+      <description>This is a rather rigorous project initially i considered using MNIST dataset but later i wanted to do everything from the scratch from data collection to the model to identification and then deliver. So i have segregated this project into 3 parts the first is the Number Generator where in i took a page and wrote all the numbers and used the image to create 500 image set of each number by image augmentation(used filters, added noise , rotated the image , flipped , zoomed etc).</description>
+    </item>
+    
+    <item>
+      <title>Project VIII : Sales Data Analysis </title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-6/</guid>
+      <description>SALES PROJECT: This Project was about taking the data of sales of a retail store and making sense out of that data and answering questions after inferring from the data. Pandas Library was used for this analysis and Matplotlib was used for visualizing the data by plotting.
+Firstly i compiled 12 months of data into a single file, next i cleaned the data by removing NAN rows and other rows with gibberish input.</description>
+    </item>
+    
+    <item>
+      <title>Project XI: Stroke Prediction Algorithms Comparition </title>
+      <link>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananta1101.github.io/Anant_Portfolio_2/post/chapter-7/</guid>
+      <description>For this Project I took the Healthcare dataset which had the stroke data which had information like patient id , gender , hypertension , heart disease , work_type , glucose ,smoking , stroke etc. In this Project as well I used pandas for data manipulation and Matplotlib for visualization. Firstly after the data was loaded it was cleaned from null values then I considered removing any outliers that would cause the algorithm to give a faulty response by using box plot.</description>
+    </item>
+    
+  </channel>
+</rss>
